@@ -29,32 +29,23 @@ The objective is to generate actionable insights that can help digital payment c
 
 ### PhonePe — National Transaction Trends
 
-![PhonePe — National Transaction Trends]
-
----<img width="1284" height="784" alt="National Transaction Trends Over Time" src="https://github.com/user-attachments/assets/1a793e77-a805-4e40-9c55-d2aa5769f4ab" />
+<img width="1284" height="784" alt="National Transaction Trends Over Time" src="https://github.com/user-attachments/assets/1a793e77-a805-4e40-9c55-d2aa5769f4ab" />
 
 ### Registered Users to Population Ratio by State
 
-![Registered Users to Population Ratio by State]
-
----<img width="1370" height="484" alt="users_population_ratio" src="https://github.com/user-attachments/assets/8698a9f6-4897-4f6e-afa0-68f7fd4a7cf7" />
+<img width="1370" height="484" alt="users_population_ratio" src="https://github.com/user-attachments/assets/8698a9f6-4897-4f6e-afa0-68f7fd4a7cf7" />
 
 ### Correlation — Demographics vs Transactions
 
-![Correlation — Demographics vs Transactions]
-
----<img width="559" height="496" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/f8230e21-1cf7-4169-9c84-168bd938ca3a" />
+<img width="559" height="496" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/f8230e21-1cf7-4169-9c84-168bd938ca3a" />
 
 ### Device Brand Usage Ratio — Top 5 States
 
-![Device Brand Usage Ratio — Top 5 States]
-
----<img width="1384" height="484" alt="Device Brand Usage" src="https://github.com/user-attachments/assets/a47d95c5-f385-4259-8eae-9e4f2d4fda76" />
+<img width="1384" height="484" alt="Device Brand Usage" src="https://github.com/user-attachments/assets/a47d95c5-f385-4259-8eae-9e4f2d4fda76" />
 
 ### Transactions and Amount Over Time — Kerala
 
-![Transactions and Amount Over Time — Kerala]
----<img width="1184" height="484" alt="Kerala Trends" src="https://github.com/user-attachments/assets/7ebde875-9ce3-44a0-9f5b-7691a08cc46d" />
+<img width="1184" height="484" alt="Kerala Trends" src="https://github.com/user-attachments/assets/7ebde875-9ce3-44a0-9f5b-7691a08cc46d" />
 
 ## 📁 Dataset
 
