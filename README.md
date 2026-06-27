@@ -142,9 +142,9 @@ The project uses multiple datasets containing transaction, user, device, and dem
 
 ```text
 PhonePe-Digital-Payments-Analysis.
-├── PhonePe_Digital_Payments_Analysis.ipynb
+├── PhonePe_case_study.ipynb
 ├── PhonePe_Business_Problem_Statement.pdf
-├── PhonePe_Datasets.xlsx
+├── PhonePe_pulse_raw_data.xlsx
 │   ├── Sheet1: State_Txn_and_Users
 │   ├── Sheet2: State_TxnSplit
 │   ├── Sheet3: State_DeviceData
@@ -152,14 +152,6 @@ PhonePe-Digital-Payments-Analysis.
 │   └── Sheet5: District_Demographics
 └── README.md
 ```
-
----
-
-## 🙏 Acknowledgement
-
-The dataset and business case were provided as part of my training at Coding Ninjas. All analysis and project implementation were completed independently.
-
----
 
 ## 📬 Contact
 
